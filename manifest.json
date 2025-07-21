@@ -1,0 +1,15 @@
+{
+	"id": "tasks-graph",
+	"name": "Tasks Graph",
+	"version": "1.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Visualizes tasks as a graph.",
+	"author": "Obsidian",
+	"authorUrl": "https://leskinen.ru",
+	"fundingUrl": {
+        "Support on Boosty": "https://boosty.to/leskinen",
+        "Direct transfer to card for Russians": "https://www.tbank.ru/cf/3XJv7UJjb6q",
+		"Another ways": "https://leskinen.ru/about" 
+    },
+	"isDesktopOnly": false
+}
