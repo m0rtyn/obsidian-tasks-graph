@@ -4,7 +4,7 @@
 	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Visualizes tasks as a graph.",
-	"author": "Obsidian",
+	"author": "Kit Leskinen",
 	"authorUrl": "https://leskinen.ru",
 	"fundingUrl": {
         "Support on Boosty": "https://boosty.to/leskinen",
