@@ -1,6 +1,6 @@
 {
 	"name": "tasks-graph",
-	"version": "1.0.1",
+	"version": "1.0.6",
 	"description": "Visualizes tasks as a graph. (https://github.com/KitLeskinen/obsidian-tasks-graph)",
 	"main": "main.js",
 	"scripts": {
@@ -12,6 +12,7 @@
 	"author": "",
 	"license": "MIT",
 	"devDependencies": {
+		"@types/d3": "^7.4.3",
 		"@types/node": "^16.11.6",
 		"@typescript-eslint/eslint-plugin": "5.29.0",
 		"@typescript-eslint/parser": "5.29.0",
@@ -19,9 +20,10 @@
 		"esbuild": "0.17.3",
 		"obsidian": "latest",
 		"tslib": "2.4.0",
-		"typescript": "4.7.4"
+		"typescript": "latest"
 	},
 	"dependencies": {
 		"d3": "^7.9.0"
-	}
+	},
+	"packageManager": "pnpm@10.14.0+sha512.ad27a79641b49c3e481a16a805baa71817a04bbe06a38d17e60e2eaee83f6a146c6a688125f5792e48dd5ba30e7da52a5cda4c3992b9ccf333f9ce223af84748"
 }
